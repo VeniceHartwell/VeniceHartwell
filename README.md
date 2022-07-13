@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 🙋‍♂️!
+I am a data analyst and python developer. I work with ETL processes, data analysis and machine learning. I'm especially interested in automation and neural networks — all through Python, SQL and bash.
 
-<!--
-**VeniceHartwell/VeniceHartwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Working on the deployment of my own projects: VeniceHartwell.com
+🌱 Learning about the MarI/O neural network and evolution patterns. If you have a project/interest, tell me about it!
+💬 Ask me about anything! You can reach me on LinkedIn: LinkedIn.com/in/Venice-Hartwell/
+👨‍🎓 My repository stores both my personal projects and the lessons I used to train as a DA.
 
-Here are some ideas to get you started:
+These are the technologies I use for Data Analysis:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages 🧑‍💻	VSC 📆	Databases 🐬	Deployment ☁️	Visualization 📊
+Python	Git	SQL	Docker	Python: matplotlib, seaborn, plotly
+Bash		MongoDB	Heroku	Tableau
+SQL			Streamlit	PowerBI
