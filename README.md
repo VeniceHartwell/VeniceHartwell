@@ -11,6 +11,6 @@ These are the technologies I use for **Data Analysis**:
 
 | **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
 | --------------- | --------------- | --------------- | --------------- | --------------- |
-| Python | Git| SQL | Docker | Python: matplotlib, seaborn, plotly |
-| Bash | | MongoDB | Heroku | Tableau
-| SQL|  |  | Streamlit | PowerBI
+| Python | Git| SQL | Python: matplotlib, seaborn, plotly |
+| Bash | | MongoDB | Tableau
+| SQL|  | | PowerBI
