@@ -9,8 +9,8 @@ I am a **Data Analyst and Python Developer.** I work with ETL processes, data an
 
 These are the technologies I use for **Data Analysis**:
 
-| **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
-| --------------- | --------------- | --------------- | --------------- | --------------- |
+| **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬 | **Visualization** 📊|
+| --------------- | --------------- | --------------- | --------------- |
 | Python | Git| SQL | Python: matplotlib, seaborn, plotly |
 | Bash | | MongoDB | Tableau
 | SQL|  | | PowerBI
