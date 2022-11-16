@@ -13,4 +13,4 @@ These are the technologies I use for **Data Analysis**:
 | --------------- | --------------- | --------------- | --------------- |
 | Python | Git| SQL | Python: matplotlib, seaborn, plotly |
 | Bash | | MongoDB | Tableau
-| MySQL|  | | PowerBI
+| MySQL/ PostgreSQL|  | | PowerBI
